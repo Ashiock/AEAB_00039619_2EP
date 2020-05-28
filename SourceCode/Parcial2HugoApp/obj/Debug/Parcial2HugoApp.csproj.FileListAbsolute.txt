@@ -1,0 +1,46 @@
+C:\Users\paper\Documents\Progra\AC NH\Parcial2HugoApp\bin\Debug\Parcial2HugoApp.exe.config
+C:\Users\paper\Documents\Progra\AC NH\Parcial2HugoApp\bin\Debug\Parcial2HugoApp.exe
+C:\Users\paper\Documents\Progra\AC NH\Parcial2HugoApp\bin\Debug\Parcial2HugoApp.pdb
+C:\Users\paper\Documents\Progra\AC NH\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.csprojAssemblyReference.cache
+C:\Users\paper\Documents\Progra\AC NH\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.Properties.Resources.resources
+C:\Users\paper\Documents\Progra\AC NH\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.csproj.GenerateResource.cache
+C:\Users\paper\Documents\Progra\AC NH\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.exe
+C:\Users\paper\Documents\Progra\AC NH\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.pdb
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.csprojAssemblyReference.cache
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.exe
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.pdb
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\Parcial2HugoApp.exe.config
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\Parcial2HugoApp.exe
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\Parcial2HugoApp.pdb
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.Properties.Resources.resources
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.csproj.GenerateResource.cache
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\Npgsql.dll
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Buffers.dll
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Memory.dll
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Text.Json.dll
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.ValueTuple.dll
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\Npgsql.pdb
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\Npgsql.xml
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Buffers.xml
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Memory.xml
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Text.Json.xml
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\perry_000\Desktop\Parcial2HugoApp\bin\Debug\System.ValueTuple.xml
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.exe.config
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.CrudAddress.resources
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.CrudBusiness.resources
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.CrudOrders.resources
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.CrudProduct.resources
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.CrudUsers.resources
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.Form1.resources
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.csproj.CopyComplete
+C:\Users\perry_000\Desktop\Parcial2HugoApp\obj\Debug\Parcial2HugoApp.Login.resources
